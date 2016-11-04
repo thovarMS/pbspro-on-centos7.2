@@ -128,7 +128,7 @@
     "vmStorageAccountContainerName": "vhd",
     "OSDiskName": "osdisk",
     "publicIPAddressType": "Dynamic",
-    "publicIPAddressName": "publicips",
+    "publicIPAddressName": "publicipsCompute",
     "masterVMName": "master",
     "workerVMName": "worker",
 	"armApiVersion": "2015-06-15",
