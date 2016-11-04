@@ -132,7 +132,7 @@
     "masterVMName": "master",
     "workerVMName": "worker",
 	"armApiVersion": "2015-06-15",
-	"avSetName": "avSet",
+	"avSetName": "avSetCompute",
     "nicName": "nic",
     "networkSettings": {
       "virtualNetworkName": "virtualnetwork",
